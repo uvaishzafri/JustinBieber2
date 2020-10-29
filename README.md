@@ -12,7 +12,7 @@ App Contains All Justin Bieber's Song's Lyrics with easy to use interface perfec
 
 ## Download
 <a href="https://play.google.com/store/apps/details?id=com.humane.JustinBelieber.justinbieber.new">
-<img alt="Get it on Google Play" src="https://github.com/uvaishzafri/JustinBieber2/blob/master/unnamed.webp" height="50px"/></a>
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" height="50px"/></a>
 
 
 
