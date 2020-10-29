@@ -18,7 +18,7 @@ App Contains All Justin Bieber's Song's Lyrics with easy to use interface perfec
 
 
 ## App Icon
-Designed by [Uvaish Zafri](uvaishzafr1@gmail.com)
+Designed by [Uvaish Zafri](https://github.com/uvaishzafri)
 
 
 
