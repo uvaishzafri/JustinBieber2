@@ -1,6 +1,6 @@
 # Just Lyrics ![Build Status](https://travis-ci.org/avjinder/Minimal-Todo.svg?branch=master)
 
-<img src="/screenshots/app_icon.png" height="200px"/> <br>
+<img src="https://github.com/uvaishzafri/JustinBieber2/blob/master/unnamed.webp" height="200px"/> <br>
 App Contains All Justin Bieber's Song's Lyrics with easy to use interface perfect for a Justin Bieber's fan like you.
 
 
