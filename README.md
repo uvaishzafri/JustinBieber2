@@ -5,7 +5,7 @@ App Contains All Justin Bieber's Song's Lyrics with easy to use interface perfec
 
 
 # Screenshots:
-<img src="https://github.com/uvaishzafri/JustinBieber2/blob/master/unnamed%20(1).webp" height="400px"/>
+<a><img src="https://github.com/uvaishzafri/JustinBieber2/blob/master/unnamed%20(1).webp" height="400px"/></a>
 <img src="https://github.com/uvaishzafri/JustinBieber2/blob/master/unnamed%20(2).webp" height="400px"/>
 <img src="https://github.com/uvaishzafri/JustinBieber2/blob/master/unnamed%20(3).webp" height="400px"/>
 <img src="https://github.com/uvaishzafri/JustinBieber2/blob/master/unnamed%20(4).webp" height="400px"/>
